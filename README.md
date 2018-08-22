@@ -1,2 +1,2 @@
 # hello-world1
-D
+Int d;
